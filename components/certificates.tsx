@@ -14,16 +14,15 @@ export default function Certificates() {
                 certLink="https://drive.google.com/file/d/14cRcnxyCQ_Lv2kk_lBgosP_R75S3irCv/preview"
             />
 
-            {/* <CertificateCard
-                companyName="Infosys"
-                recipientName="Nagendra Kumar Gubbala"
-                courseName="Continuous Integration and Delivery - DevOps"
-                issueDate={new Date('2024-07-21')}
-                certificateId=""
-                certLink="https://drive.google.com/file/d/1alL5i1iCAOUWBwbZn8ZwPHmXWCzTipib/preview"
-            /> */}
+       <CertificateCard
+                companyName="Letsupgrade"
+                recipientName="sai ram santhosh guttula"
+                courseName="python Bootcamp"
+                issueDate={new Date('2025-05-31')}
+                certificateId="LUEPYTMAY1251760"
+                certLink="https://drive.google.com/file/d/1xUwrd4O6yornR39GpFk6iKLg67cpVPiS/preview"
 
-
+            /> 
         </div>
 
     );
