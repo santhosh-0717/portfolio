@@ -20,7 +20,7 @@ export default function Certificates() {
                 courseName="python essentials 2"
                 issueDate={new Date('2025-05-31')}
                 certificateId=""
-                certLink="https://drive.google.com/file/d/1hOP6-39QwNhx4HGHb_OTOAcL_SKsx4Wl/view?usp=sharing/preview"
+                certLink="https://drive.google.com/file/d/1hOP6-39QwNhx4HGHb_OTOAcL_SKsx4Wl/preview"
 
             /> 
         </div>
