@@ -15,12 +15,12 @@ export default function Certificates() {
             />
 
        <CertificateCard
-                companyName="Letsupgrade"
+                companyName="cisco"
                 recipientName="sai ram santhosh guttula"
-                courseName="python Bootcamp"
+                courseName="python essentials 2"
                 issueDate={new Date('2025-05-31')}
-                certificateId="LUEPYTMAY1251760"
-                certLink="https://drive.google.com/file/d/1xUwrd4O6yornR39GpFk6iKLg67cpVPiS/preview"
+                certificateId=""
+                certLink="https://drive.google.com/file/d/1hOP6-39QwNhx4HGHb_OTOAcL_SKsx4Wl/view?usp=sharing/preview"
 
             /> 
         </div>
