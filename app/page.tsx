@@ -62,7 +62,7 @@ export default function Home() {
                 <section className="py-20 md:py-30 flex flex-col md:flex-row items-center gap-8">
                     <div className="flex-1 space-y-6">
                         <div className="inline-block rounded-full bg-primary/10 px-3 py-1 text-sm text-primary">
-                            AI & Full Stack Developer
+                             Full Stack Developer
                         </div>
                         <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight w-full">
                             {/*Building the <span className="text-primary">future</span> with code*/}
@@ -175,7 +175,7 @@ export default function Home() {
                                 {/*<SkillBadge name="Node.js" />
                                 <SkillBadge name="Flask"/>
                                 <SkillBadge name="Express"/>
-                                <SkillBadge name="Scikit-Learn"/>
+                                <SkillBadge name="Scikit-Learn"/>*/}
                                 {/*<SkillBadge name="PyTorch" />*/}
                             </div>
                         </div>
@@ -183,8 +183,8 @@ export default function Home() {
                             <h3 className="text-xl font-semibold mb-4">Tools & Technologies</h3>
                             <div className="flex flex-wrap gap-2">
                                 <SkillBadge name="Git"/>
-                                <SkillBadge name="Github Actions"/>
-                                {/*<SkillBadge name="AWS"/>
+                                {/* <SkillBadge name="Github Actions"/>
+                                <SkillBadge name="AWS"/>
                                 <SkillBadge name="Firebase"/>
                                 <SkillBadge name="MongoDB"/>
                                 <SkillBadge name="Azure"/>
@@ -274,7 +274,7 @@ export default function Home() {
                                     <div className="bg-primary/10 p-3 rounded-full">
                                         <Mail className="h-5 w-5 text-primary"/>
                                     </div>
-                                    <span>gsantosh037@gmail.com</span>
+                                    <span>gsanthosh037@gmail.com</span>
                                 </div>
                                 <div className="flex items-center gap-3">
                                     <div className="bg-primary/10 p-3 rounded-full">
