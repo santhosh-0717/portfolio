@@ -173,7 +173,7 @@ export default function Home() {
                                 <SkillBadge name="React"/>
                                 <SkillBadge name="Next.js"/>
                                 {/*<SkillBadge name="Node.js" />*/}
-                                <SkillBadge name="Flask"/>
+                                {/* <SkillBadge name="Flask"/>
                                 <SkillBadge name="Express"/>
                                 <SkillBadge name="Scikit-Learn"/>
                                 {/*<SkillBadge name="PyTorch" />*/}
@@ -184,7 +184,7 @@ export default function Home() {
                             <div className="flex flex-wrap gap-2">
                                 <SkillBadge name="Git"/>
                                 <SkillBadge name="Github Actions"/>
-                                <SkillBadge name="AWS"/>
+                                {/* <SkillBadge name="AWS"/>
                                 <SkillBadge name="Firebase"/>
                                 <SkillBadge name="MongoDB"/>
                                 <SkillBadge name="Azure"/>
@@ -274,7 +274,7 @@ export default function Home() {
                                     <div className="bg-primary/10 p-3 rounded-full">
                                         <Mail className="h-5 w-5 text-primary"/>
                                     </div>
-                                    <span>santosh037@gmail.com</span>
+                                    <span>gsantosh037@gmail.com</span>
                                 </div>
                                 <div className="flex items-center gap-3">
                                     <div className="bg-primary/10 p-3 rounded-full">
