@@ -102,6 +102,14 @@ export default function Home() {
                                 <Linkedin className="h-5 w-5"/>
                                 <span className="sr-only">LinkedIn</span>
                             </Link>
+                            <Link
+                                    href="https://www.instagram.com/urs_santhosh_17?"
+                                    target="_blank"
+                                    className="text-muted-foreground hover:text-primary transition-colors"
+                                >
+                                    <Instagram className="h-5 w-5"/>
+                                    <span className="sr-only">insta</span>
+                                </Link>
                             
                             
                         </div>
@@ -289,6 +297,12 @@ export default function Home() {
                                     <span>github.com/santhosh-0717</span>
                                 </div>
                             </div>
+                             <div className="flex items-center gap-3">
+                                    <div className="bg-primary/10 p-3 rounded-full">
+                                        <Instagram className="h-5 w-5 text-primary"/>
+                                    </div>
+                                    <span>instagram.com/urs_santhosh_17/</span>
+                          </div>
                         </div>
                         <div className="flex-1">
                             <div className="bg-card rounded-xl p-6 border border-border/50">
