@@ -80,9 +80,9 @@ export default function Home() {
                                     Contact Me <ArrowRight className="ml-2 h-4 w-4"/>
                                 </Link>
                             </Button>
-                            <Button variant="outline" size="lg" asChild>
+                            {/* <Button variant="outline" size="lg" asChild>
                                 <Link href="#projects">View Projects</Link>
-                            </Button>
+                            </Button>*/}
 
                         </div>
                         <div className="flex gap-4 pt-4">
@@ -297,12 +297,6 @@ export default function Home() {
                                     <span>github.com/santhosh-0717</span>
                                 </div>
                             </div>
-                             <div className="flex items-center gap-3">
-                                    <div className="bg-primary/10 p-3 rounded-full">
-                                        <Instagram className="h-5 w-5 text-primary"/>
-                                    </div>
-                                    <span>instagram.com/urs_santhosh_17/</span>
-                          </div>
                         </div>
                         <div className="flex-1">
                             <div className="bg-card rounded-xl p-6 border border-border/50">
