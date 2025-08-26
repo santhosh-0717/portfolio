@@ -62,7 +62,7 @@ export default function Home() {
                 <section className="py-20 md:py-30 flex flex-col md:flex-row items-center gap-8">
                     <div className="flex-1 space-y-6">
                         <div className="inline-block rounded-full bg-primary/10 px-3 py-1 text-sm text-primary">
-                            AI & Full Stack Developer
+                             Full Stack Developer
                         </div>
                         <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight w-full">
                             {/*Building the <span className="text-primary">future</span> with code*/}
@@ -274,7 +274,7 @@ export default function Home() {
                                     <div className="bg-primary/10 p-3 rounded-full">
                                         <Mail className="h-5 w-5 text-primary"/>
                                     </div>
-                                    <span>gsantosh037@gmail.com</span>
+                                    <span>gsanthosh037@gmail.com</span>
                                 </div>
                                 <div className="flex items-center gap-3">
                                     <div className="bg-primary/10 p-3 rounded-full">
