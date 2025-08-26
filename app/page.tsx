@@ -109,7 +109,7 @@ export default function Home() {
                                 >
                                     <Instagram className="h-5 w-5"/>
                                     <span className="sr-only">insta</span>
-                                </Link>
+                            </Link>
                             
                             
                         </div>
@@ -302,7 +302,7 @@ export default function Home() {
                                         <Instagram className="h-5 w-5 text-primary"/>
                                     </div>
                                     <span>instagram.com/urs_santhosh_17/</span>
-                          </div>
+                              </div>
                         </div>
                         <div className="flex-1">
                             <div className="bg-card rounded-xl p-6 border border-border/50">
