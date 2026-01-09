@@ -18,7 +18,7 @@ export function DownloadResumeButton() {
     return (
         <Button asChild size="sm" variant="outline" className="flex" disabled={downloading}>
             <Link
-                href="/https://drive.google.com/uc?export=download&id=13BPiaLyJjo3rnsAiPLt37k--OthSFPC"
+                href="/https://drive.google.com/uc?export=download&id=13BPiaLyJjo3rnsAiPLt37k--OthSFPC1"
                 download="SanthoshGuttulaResume.pdf"
                 target="_blank"
                 onClick={handleClick}
