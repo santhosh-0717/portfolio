@@ -183,7 +183,7 @@ export default function Home() {
                                 {/*<SkillBadge name="Node.js" />
                                 <SkillBadge name="Flask"/>
                                 <SkillBadge name="Express"/>
-                                <SkillBadge name="Scikit-Learn"/>
+                                <SkillBadge name="Scikit-Learn"/>*/}
                                 {/*<SkillBadge name="PyTorch" />*/}
                             </div>
                         </div>
@@ -191,8 +191,8 @@ export default function Home() {
                             <h3 className="text-xl font-semibold mb-4">Tools & Technologies</h3>
                             <div className="flex flex-wrap gap-2">
                                 <SkillBadge name="Git"/>
-                                <SkillBadge name="Github Actions"/>
-                                {/*<SkillBadge name="AWS"/>
+                                {/* <SkillBadge name="Github Actions"/>
+                                <SkillBadge name="AWS"/>
                                 <SkillBadge name="Firebase"/>
                                 <SkillBadge name="MongoDB"/>
                                 <SkillBadge name="Azure"/>
