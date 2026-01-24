@@ -18,8 +18,8 @@ export function DownloadResumeButton() {
     return (
         <Button asChild size="sm" variant="outline" className="flex" disabled={downloading}>
             <Link
-                href="santhosh_resume.pdf"
-                download="santhosh_resume.pdf"
+                href="public/SanthoshGuttulaResume.pdf"
+                download="public/SanthoshGuttulaResume.pdf"
                 target="_blank"
                 onClick={handleClick}
             >
