@@ -21,6 +21,8 @@ import Workshops from "@/components/workshops";
 import NameAnimation from "@/components/name-animation";
 import {DownloadResumeButton} from "@/components/resume-download";
 import TextShimmerColor from "@/components/heading-text";
+import {TechLogosAnimation} from "@/components/tech-logos-animation";
+import {TechMarquee} from "@/components/tech-marquee";
 
 
 export default function Home() {
@@ -115,11 +117,14 @@ export default function Home() {
                         </div>
                     </div>
                     <div className="flex-1 w-full max-w-md mx-auto md:mx-0">
-                        <HeroAnimation/>
+                        <TechLogosAnimation/>
 
                     </div>
 
                 </section>
+
+                {/* Tech Marquee Section */}
+                <TechMarquee/>
 
                 {/* About Section */}
                 <section id="about" className="py-16 scroll-mt-20">
