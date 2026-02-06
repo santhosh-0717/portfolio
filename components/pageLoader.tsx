@@ -15,8 +15,6 @@ const PageLoader = ({children}: { children: React.ReactNode }) => {
         return () => clearTimeout(timer);
     }, []);
 
-    if (!isMounted) return null;
-
     if (isLoading) {
         return (
             <div
