@@ -23,13 +23,11 @@ import {DownloadResumeButton} from "@/components/resume-download";
 import TextShimmerColor from "@/components/heading-text";
 import {TechLogosAnimation} from "@/components/tech-logos-animation";
 import {TechMarquee} from "@/components/tech-marquee";
-import {AnimatedTechBackground} from "@/components/animated-tech-background";
 
 
 export default function Home() {
     return (
-        <div className="min-h-screen bg-background relative">
-            <AnimatedTechBackground />
+        <div className="min-h-screen bg-background">
             {/* Header */}
             <header className="fixed top-0 w-full border-b border-border/40 bg-background/80 backdrop-blur-md z-50">
                 <div className="container flex h-16 items-center justify-between">
@@ -61,7 +59,7 @@ export default function Home() {
                 </div>
             </header>
 
-            <main className="container pt-24 pb-16 relative z-10">
+            <main className="container pt-24 pb-16">
                 {/* Hero Section */}
                 <section className="py-20 md:py-30 flex flex-col md:flex-row items-center gap-8">
                     <div className="flex-1 space-y-6">
@@ -315,7 +313,7 @@ export default function Home() {
             </main>
 
             {/* Footer */}
-            <footer className="border-t border-border/40 bg-background relative z-10">
+            <footer className="border-t border-border/40 bg-background">
                 <div className="container py-8">
                     <div className="flex flex-col md:flex-row justify-between items-center">
                         <div className="mb-4 md:mb-0">
